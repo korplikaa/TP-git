@@ -1,3 +1,5 @@
 # Ignore binary files.
 *.exe
 *.dll
+# Ignore binary folder
+/bin/*
